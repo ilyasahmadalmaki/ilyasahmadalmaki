@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=OhMyD3v&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="OhMyD3v" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HYDRA%20TEAM%20BRINGAS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="HYDRA TEAM BRINGAS" />
 </div>
 
 <div align="center">
@@ -25,17 +25,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## [ stats ]
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilyasahmadalmaki&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasahmadalmaki&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,5,10&height=150&text=SYSTEMS%20%2F%2F%20SECURITY%20%2F%2F%20AUTOMATION&fontSize=30&fontColor=ffffff" alt="SYSTEMS // SECURITY // AUTOMATION" />
+</div>
 
 ## [ links ]
 
 - Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=HACKING%20AND%20HACKING%20AGAIN&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="HACKING AND HACKING AGAIN" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=HACKING%20AND%20HACKING%20AGAIN&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="HACKING AND HACKING AGAIN" />
 </div>
