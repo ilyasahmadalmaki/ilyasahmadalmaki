@@ -3,21 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ilyasahmadalmaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff2a6d&center=true&vCenter=true&width=700&lines=Belajar+YouTube+dari+nol;Channel+0+sampai+monetisasi;Curhatan+untuk+pemula" alt="Typing SVG" /></a>
+  <a href="https://github.com/ilyasahmadalmaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff2a6d&center=true&vCenter=true&width=700&lines=Indonesian+hacker+%2F%2F+builder;Systems+%2F%2F+Security+%2F%2F+Automation;Build.+Break.+Rebuild." alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-Indonesia-00d4ff?style=flat" alt="Indonesia" />
   <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat" alt="Online" />
 </p>
-
-## [ buku ]
-
-**Belajar YouTube dari Nol** — buku digital gratis untuk pemula yang 0 pengetahuan
-tentang YouTube tapi mau menghasilkan uang di YouTube. Ditulis seperti curhatan,
-dengan bahasa yang sopan — supaya pemula bisa langsung paham dan praktek.
-
-- [Baca bukunya](https://github.com/ilyasahmadalmaki/ilyasahmadalmaki/blob/main/buku-youtube/README.md)
 
 ## [ stack ]
 
@@ -32,7 +24,7 @@ dengan bahasa yang sopan — supaya pemula bisa langsung paham dan praktek.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-band.svg" alt="DARI NOL // SAMPAI GAJIAN" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-band.svg" alt="SYSTEMS // SECURITY // AUTOMATION" />
 </div>
 
 ## [ links ]
@@ -40,5 +32,5 @@ dengan bahasa yang sopan — supaya pemula bisa langsung paham dan praktek.
 - Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="CURHATAN // UNTUK // PEMULA" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="HACKING AND HACKING AGAIN" />
 </div>
