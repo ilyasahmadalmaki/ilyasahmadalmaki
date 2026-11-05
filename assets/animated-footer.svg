@@ -23,7 +23,7 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <text id="footTitle" x="600" y="105" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="900" letter-spacing="4">HACKING AND HACKING AGAIN</text>
+    <text id="footTitle" x="600" y="105" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="44" font-weight="900" letter-spacing="4">PENGALAMAN NYATA // BUKAN TEORI</text>
     <clipPath id="footClip">
       <use href="#footTitle" xlink:href="#footTitle"/>
     </clipPath>
