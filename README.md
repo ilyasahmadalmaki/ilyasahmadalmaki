@@ -10,27 +10,3 @@
   <img src="https://img.shields.io/badge/LOCATION-Indonesia-00d4ff?style=flat" alt="Indonesia" />
   <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat" alt="Online" />
 </p>
-
-## [ stack ]
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-band.svg" alt="SYSTEMS // SECURITY // AUTOMATION" />
-</div>
-
-## [ links ]
-
-- Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="HACKING AND HACKING AGAIN" />
-</div>
