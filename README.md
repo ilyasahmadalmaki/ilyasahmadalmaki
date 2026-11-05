@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HYDRA%20TEAM%20BRINGAS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="HYDRA TEAM BRINGAS" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-header.svg" alt="HYDRA TEAM BRINGAS" />
 </div>
 
 <div align="center">
@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/LOCATION-Indonesia-00d4ff?style=flat" alt="Indonesia" />
   <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat" alt="Online" />
 </p>
-
-<p align="center"><b>Indonesian hacker // builder</b></p>
 
 ## [ stack ]
 
