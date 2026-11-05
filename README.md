@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ilyasahmadalmaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff2a6d&center=true&vCenter=true&width=700&lines=Belajar+YouTube+dari+nol;Channel+0+sampai+monetisasi;Pengalaman+nyata%2C+bukan+teori" alt="Typing SVG" /></a>
+  <a href="https://github.com/ilyasahmadalmaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff2a6d&center=true&vCenter=true&width=700&lines=Belajar+YouTube+dari+nol;Channel+0+sampai+monetisasi;Curhatan+untuk+pemula" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ## [ buku ]
 
 **Belajar YouTube dari Nol** — buku digital gratis untuk pemula yang 0 pengetahuan
-tentang YouTube tapi mau menghasilkan uang di YouTube. Dari bikin channel sampai
-monetisasi, dari pengalaman nyata — bukan teori.
+tentang YouTube tapi mau menghasilkan uang di YouTube. Ditulis seperti curhatan,
+dengan bahasa yang sopan — supaya pemula bisa langsung paham dan praktek.
 
 - [Baca bukunya](https://github.com/ilyasahmadalmaki/ilyasahmadalmaki/blob/main/buku-youtube/README.md)
 
@@ -40,5 +40,5 @@ monetisasi, dari pengalaman nyata — bukan teori.
 - Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="PENGALAMAN NYATA // BUKAN TEORI" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="CURHATAN // UNTUK // PEMULA" />
 </div>
