@@ -23,7 +23,7 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <text id="bandTitle" x="600" y="100" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="40" font-weight="900" letter-spacing="4">SYSTEMS // SECURITY // AUTOMATION</text>
+    <text id="bandTitle" x="600" y="100" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="40" font-weight="900" letter-spacing="4">DARI NOL // SAMPAI GAJIAN</text>
     <clipPath id="bandClip">
       <use href="#bandTitle" xlink:href="#bandTitle"/>
     </clipPath>
