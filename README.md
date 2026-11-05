@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,5,10&height=150&text=SYSTEMS%20%2F%2F%20SECURITY%20%2F%2F%20AUTOMATION&fontSize=30&fontColor=ffffff" alt="SYSTEMS // SECURITY // AUTOMATION" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-band.svg" alt="SYSTEMS // SECURITY // AUTOMATION" />
 </div>
 
 ## [ links ]
@@ -32,5 +32,5 @@
 - Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=HACKING%20AND%20HACKING%20AGAIN&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="HACKING AND HACKING AGAIN" />
+  <img src="https://raw.githubusercontent.com/ilyasahmadalmaki/ilyasahmadalmaki/main/assets/animated-footer.svg" alt="HACKING AND HACKING AGAIN" />
 </div>
