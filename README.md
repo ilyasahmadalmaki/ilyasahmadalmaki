@@ -1,20 +1,41 @@
-# OhMyD3v
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=OhMyD3v&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="OhMyD3v" />
+</div>
 
-Indonesian hacker // builder
+<div align="center">
+  <a href="https://github.com/ilyasahmadalmaki"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff2a6d&center=true&vCenter=true&width=700&lines=Indonesian+hacker+%2F%2F+builder;Systems+%2F%2F+Security+%2F%2F+Automation;Build.+Break.+Rebuild." alt="Typing SVG" /></a>
+</div>
 
-## stack
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-Indonesia-00d4ff?style=flat" alt="Indonesia" />
+  <img src="https://img.shields.io/badge/STATUS-Online-00ff41?style=flat" alt="Online" />
+</p>
 
-JavaScript · Node.js · Python · FFmpeg · Linux · Git
+<p align="center"><b>Indonesian hacker // builder</b></p>
 
-## work
+## [ stack ]
 
-- [hydra-live-v9](https://github.com/ilyasahmadalmaki/hydra-live-v9)
-- [streamflow](https://github.com/ilyasahmadalmaki/streamflow)
-- [auto-stream-app](https://github.com/ilyasahmadalmaki/auto-stream-app)
-- [stream-engine](https://github.com/ilyasahmadalmaki/stream-engine)
-- [stream-engine-vps](https://github.com/ilyasahmadalmaki/stream-engine-vps)
-- [YTUploaderSakti](https://github.com/ilyasahmadalmaki/YTUploaderSakti)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-## links
+## [ stats ]
 
-- [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ilyasahmadalmaki&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasahmadalmaki&layout=compact&theme=synthwave&hide_border=true" alt="Top languages" />
+</p>
+
+## [ links ]
+
+- Blog: [blackhat-dotcom.blogspot.com](https://blackhat-dotcom.blogspot.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=HACKING%20AND%20HACKING%20AGAIN&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="HACKING AND HACKING AGAIN" />
+</div>
