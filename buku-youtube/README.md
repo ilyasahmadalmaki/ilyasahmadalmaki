@@ -1,10 +1,12 @@
 # Belajar YouTube dari Nol
 
-*Buku digital gratis — dari pengalaman nyata, bukan teori.*
+*Buku digital gratis — curhatan seorang pemula, untuk pemula.*
 
 Buku ini untuk pemula yang **0 pengetahuan tentang YouTube** tapi mau terjun ke dunia
-menghasilkan uang di YouTube. Semua isinya dari pengalaman nyata penulis membangun
-channel dari nol: salahnya, benarnya, dan angkanya — bukan teori copas.
+menghasilkan uang di YouTube. Isinya curhatan penulis selama membangun channel dari
+nol: yang dicoba, yang gagal, yang berhasil — ditulis dengan bahasa yang sopan dan
+sederhana, supaya pemula bisa langsung paham dan praktek. Penulis juga masih terus
+belajar.
 
 ## Untuk siapa buku ini?
 
@@ -49,5 +51,6 @@ channel dari nol: salahnya, benarnya, dan angkanya — bukan teori copas.
 
 ## Status
 
-Draft struktur. Isi tiap bab ditulis bab per bab dari pengalaman penulis —
-bukan janji cepat kaya, tapi peta jalan yang sudah dijalani sendiri.
+Draft struktur. Isi tiap bab ditulis bab per bab dari curhatan penulis — bukan
+janji cepat kaya, dan penulis juga masih terus belajar. Kalau buku ini bisa
+mencerahkan satu pemula saja, itu sudah cukup.
